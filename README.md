@@ -15,3 +15,4 @@ If you put it in $FSLDIR/bin/ then it will be available wherever you are, but if
 All the best,
        Mark 
 =======================================
+original posting https://www.jiscmail.ac.uk/cgi-bin/webadmin?A2=FSL;b864bc43.1101
